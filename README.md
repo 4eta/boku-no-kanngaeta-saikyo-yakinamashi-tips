@@ -5,7 +5,7 @@ Simulated Annealing improvement skill for AI coding agent.
 ## Install
 
 ```sh
-npx skills add 4eta/boku-no-kanngaeta-saikyo-yakiinamashi-tips
+npx skills add 4eta/boku-no-kanngaeta-saikyo-yakinamashi-tips
 ```
 
 ## How to use
